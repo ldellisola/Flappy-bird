@@ -1,16 +1,9 @@
-﻿  button.cpp
-  file_handler.cpp
-  game.cpp
-  keyboard_mouse.cpp
+﻿  Source.cpp
   bird.cpp
-  math_handler.cpp
-  scoreboard.cpp
-  Source.cpp
-  string_handler.cpp
-  tube.cpp
+  game.cpp
   Generating code
-  21 of 61 functions (34.4%) were compiled, the rest were copied from previous compilation.
+  0 of 61 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Flappy Bird.vcxproj -> C:\Users\luckd\source\repos\Flappy Bird\Release\Flappy Bird.exe
+  Flappy Bird.vcxproj -> C:\Users\luckd\OneDrive\Documentos\Github\Flappy Bird\Release\Flappy Bird.exe

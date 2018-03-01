@@ -10,7 +10,7 @@
 #define FLAPPYSTARTINGY (HEIGHT / 2)
 #define FLAPPYRADIUS (50)
 #define FLAPPYBOOST (2)
-#define GRAVITY (0.005)
+#define GRAVITY (0.7)
 
 class bird
 {

@@ -1,2 +1,12 @@
-﻿  Source.cpp
-  Flappy Bird.vcxproj -> C:\Users\luckd\source\repos\Flappy Bird\Debug\Flappy Bird.exe
+﻿  tube.cpp
+  string_handler.cpp
+  Source.cpp
+  scoreboard.cpp
+  math_handler.cpp
+  bird.cpp
+  keyboard_mouse.cpp
+  game.cpp
+  file_handler.cpp
+  button.cpp
+  Generating Code...
+  Flappy Bird.vcxproj -> C:\Users\luckd\OneDrive\Documentos\Github\Flappy Bird\Debug\Flappy Bird.exe
